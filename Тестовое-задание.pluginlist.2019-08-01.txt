@@ -1,0 +1,32 @@
+------------------------------------------------------------
+  Plugin list generated with BackWPup version: 3.6.10
+  http://backwpup.com
+  Blog Name: Тестовое задание
+  Blog URL: http://test.si-shop.ru
+  Generated on: 2019-08-01 00:56.32
+------------------------------------------------------------
+
+
+Вся информация о плагинах:
+------------------------------
+Akismet Anti-Spam (v.4.1.2) из Automattic
+	https://akismet.com/
+BackWPup (v.3.6.10) из Inpsyde GmbH
+	http://backwpup.com
+Hello Dolly (v.1.7.2) из Matt Mullenweg
+	http://wordpress.org/plugins/hello-dolly/
+WooCommerce (v.3.6.5) из Automattic
+	https://woocommerce.com/
+WP Slick Slider and Image Carousel (v.1.7.1) из WP OnlineSupport
+	https://www.wponlinesupport.com/plugins
+
+Активные плагины:
+------------------------------
+BackWPup
+WooCommerce
+WP Slick Slider and Image Carousel
+
+Неактивные плагины:
+------------------------------
+Akismet Anti-Spam
+Hello Dolly

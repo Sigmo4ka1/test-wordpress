@@ -1,0 +1,49 @@
+/*
+Theme Name: twentyseventeen-child
+Template: twentyseventeen
+Author: Sigmo4ka (Shekhovtsova Helen)
+Author URI: +380509592077, sigm@ukr.net
+Description: Test
+Version: 1.0
+*/
+
+@import url("../twentyseventeen/style.css");
+
+.wpsisac-slick-slider-wrp {
+	clear: both;
+	width: 100%;
+}
+
+body.home.page-two-column:not(.archive) #primary .entry-content {
+	float: none !important;
+    width: 100% !important;
+}
+
+body.page-two-column:not(.archive) #primary .entry-header {
+	display: none;
+}
+.salee {
+	text-transform: uppercase;
+}
+body.page-two-column:not(.archive) #primary .entry-content, body.page-two-column #comments {
+    float: none !important;
+    width: 100% !important;
+}
+.home h1 {
+	    font-size: 61px;
+}
+.single-product #secondary {
+	display: none;
+}
+.has-sidebar.woocommerce-page:not(.error404) #primary {
+    width: 100%;
+}
+.stock.in-stock {
+	display: none;
+}
+.product_meta {
+	display: flex;
+	-webkit-flex-direction: column;
+	    -ms-flex-direction: column;
+	        flex-direction: column;
+}
